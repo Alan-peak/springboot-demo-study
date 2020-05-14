@@ -1,0 +1,16 @@
+.mvn/
+**/.mvn/
+.settings/
+**/.settings/
+target/
+**/target/
+.classpath
+**/.classpath
+HELP.md
+**/HELP.md
+mvnw*
+**/mvnw*
+
+**/.gitignore
+**/.project
+!.project
